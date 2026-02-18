@@ -3,7 +3,7 @@
 A high-performance, responsive ticketing dashboard built for the Front-End Developer assignment.
 
 ## 🚀 Live Project
-**Check it out here:** [YAHAN APNA NETLIFY LINK PASTE KARO]
+**Check it out here:** [https://weanalyz-dashboard.netlify.app/]
 
 ## 🛠️ Tech Used
 - **React.js & Vite** for a blazing fast dev experience.
